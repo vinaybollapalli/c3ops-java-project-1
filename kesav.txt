@@ -5,3 +5,8 @@ git
 Github
 
 jenkins
+
+SonarQube
+
+
+JFrog
