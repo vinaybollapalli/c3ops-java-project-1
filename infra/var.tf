@@ -23,3 +23,7 @@ variable "enable_dns_support" {
 variable "enable_dns_hostnames" {
   default = true
 }
+
+variable "environment" {
+  default = "dev"
+}
